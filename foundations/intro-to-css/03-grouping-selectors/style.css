@@ -1,0 +1,14 @@
+.fel, .sel {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+
+}
+
+.fel{
+    color: white;
+    background-color: black;
+}
+
+.sel{
+    background-color: yellow;
+}
